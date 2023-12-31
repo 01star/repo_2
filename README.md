@@ -7,3 +7,7 @@
 
 ## Corrections
     this was made on the local machine but a empy repo was created to house this repo in github ...
+
+## Changes on the branch-1
+    this is jsut something that was made on the branch-1
+    instead of the main branch ... 
