@@ -7,3 +7,6 @@
 
 ## Corrections
     this was made on the local machine but a empy repo was created to house this repo in github ...
+
+## Changes on the main 
+    This text was added in the main branch ... 
