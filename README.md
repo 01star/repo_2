@@ -4,4 +4,6 @@
 ## Sub-heading 
     This is a repositary that was made in my local machine 
     and not in the github browser ...
-    
+
+## Corrections
+    this was made on the local machine but a empy repo was created to house this repo in github ...
