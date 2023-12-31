@@ -11,3 +11,7 @@
 ## Changes on the branch-1
     this is jsut something that was made on the branch-1
     instead of the main branch ... 
+
+## Changes on the main 
+    This text was added in the main branch ... 
+
